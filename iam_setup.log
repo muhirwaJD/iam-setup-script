@@ -1,0 +1,23 @@
+===== IAM Setup Log - Mon May  5 15:47:25 UTC 2025 =====
+Processing user: jdoe
+Group 'engineering ' created.
+User 'jdoe' created with group 'engineering '.
+Temporary password set for 'jdoe'.
+Forced password reset on next login for 'jdoe'.
+Permissions set for /home/jdoe to 700.
+-----
+Processing user: asmith
+Group 'engineering ' created.
+User 'asmith' created with group 'engineering '.
+Temporary password set for 'asmith'.
+Forced password reset on next login for 'asmith'.
+Permissions set for /home/asmith to 700.
+-----
+Processing user: mjones
+Group 'design ' created.
+User 'mjones' created with group 'design '.
+Temporary password set for 'mjones'.
+Forced password reset on next login for 'mjones'.
+Permissions set for /home/mjones to 700.
+-----
+IAM setup completed at Mon May  5 15:47:25 UTC 2025.
