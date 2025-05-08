@@ -17,8 +17,12 @@ fi
 
 # Process each line of the input file
 while IFS=',' read -r username fullname groupname; do
+	# Skip empty or incomplete lines
+	if [[ -z "$username" || -z "$fullname" || -z "$groupname" ]]; then
+	  continue
+	fi
+	
   echo "Processing user: $username" | tee -a "$LOG_FILE"
-
   # Create group if it doesn't exist
   if ! getent group "$groupname" > /dev/null; then
     groupadd "$groupname"

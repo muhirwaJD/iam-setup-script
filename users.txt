@@ -1,3 +1,5 @@
-jdoe,John Doe,engineering
-asmith,Alice Smith,engineering
-mjones,Mike Jones,design
+dtariq,David Tariq,marketing
+kghost,Komal Ghost,sales
+ttommy,Tony Thomas,product
+jdmuhirwa, Jd Muhirwa,engineering
+

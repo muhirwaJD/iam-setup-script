@@ -1,14 +1,22 @@
-===== IAM Setup Log - Wed May  7 13:56:50 UTC 2025 =====
-Processing user: jdoe
+===== IAM Setup Log - Thu May  8 16:46:21 UTC 2025 =====
+Processing user: dtariq
+Group 'marketing' already exists.
+User 'dtariq' already exists. Skipping creation.
+-----
+Processing user: kghost
+Group 'sales' already exists.
+User 'kghost' already exists. Skipping creation.
+-----
+Processing user: ttommy
+Group 'product' already exists.
+User 'ttommy' already exists. Skipping creation.
+-----
+Processing user: jdmuhirwa
 Group 'engineering' already exists.
-User 'jdoe' already exists. Skipping creation.
+User 'jdmuhirwa' created with group 'engineering'.
+Temporary password set for 'jdmuhirwa'.
+Password reset on next login enforced for 'jdmuhirwa'.
+Set permissions for /home/jdmuhirwa to 700.
+Notification email sent to jdmuhirwa@localhost.
 -----
-Processing user: asmith
-Group 'engineering' already exists.
-User 'asmith' already exists. Skipping creation.
------
-Processing user: mjones
-Group 'design' already exists.
-User 'mjones' already exists. Skipping creation.
------
-IAM setup completed at Wed May  7 13:56:50 UTC 2025.
+IAM setup completed at Thu May  8 16:46:22 UTC 2025.
