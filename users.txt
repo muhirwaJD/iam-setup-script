@@ -1,5 +1,4 @@
-dtariq,David Tariq,marketing
-kghost,Komal Ghost,sales
-ttommy,Tony Thomas,product
-jdmuhirwa, Jd Muhirwa,engineering
+gjames,Ghost James,engineering,itsjd232@gmail.com
+jmuhirwa,Jay Muhirwa,engineering,muhirwa232@gmail.com
+gmanzi,Gustave Manzi,design,j.hareriman@alustudent.com
 
